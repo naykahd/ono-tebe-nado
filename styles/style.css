@@ -303,10 +303,17 @@
   font-weight: 400;
   line-height: 23px;
   max-width: 885px;
+  margin-bottom: 28px;
 }
 
-.about__text p:first-child {
-  margin-bottom: 28px;
+.about__text-sequel {
+  color: #000;
+  font-family: Raleway;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23px;
+  max-width: 885px;
 }
 
 .footer {
